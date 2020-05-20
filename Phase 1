@@ -8,4 +8,36 @@ add the description of what the changes you made to file in the "commit new file
 now commit the file by clicking the button "commit new file".
 the changes you made to file will be saved. 
 
+TO GO PREVIOUS VERSION:
+select "code" option.
+There you find all files you created and commits you made. 
+click on "comment" symbol. 
+you will find all the versions. 
+select the version you need and open it. 
+select "view" option ,you will get the that version. 
+
+DEALING WITH BRANCH:
+let's imagine you are working on 4.0 version and need to add some more information to 4.0 version. 
+Then you will make it as 4.1 version but You are not sure that information need to be added or not. . 
+If we make changes we may lose the version so we can create another branch while making commit .
+Now you can work on 2 versions at a time as they 2 are in different branches. 
+
+MERGING BRACHES:
+After you are sure that all file branches are completed successfully. 
+Now you think to merge the both branches. 
+Go to main repository where the files are created. 
+search for the option "commit and pull request" and click on it. 
+you will find the branches to be merged. 
+click on "create pull request".
+If it shows that "This branch has some resolve conflicts".
+Then click on "resolve conflicts".
+Remove unwanted symbols and branch names. 
+After done with changes click on  "mark as resolved".
+now the branches merged successfully.
+click on "commit merge".
+click on "merge pull request".
+click on "confirm merge".
+To verify select "code" option then you will find that child branch had merged into parent branch. 
+
+
 thank you .
